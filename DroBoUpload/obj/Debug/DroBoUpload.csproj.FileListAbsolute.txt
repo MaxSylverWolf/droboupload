@@ -1,0 +1,12 @@
+C:\Users\maxsy\Desktop\DropBoxManager\DroBoUpload\DroBoUpload\bin\Debug\DroBoUpload.exe.config
+C:\Users\maxsy\Desktop\DropBoxManager\DroBoUpload\DroBoUpload\bin\Debug\DroBoUpload.exe
+C:\Users\maxsy\Desktop\DropBoxManager\DroBoUpload\DroBoUpload\bin\Debug\DroBoUpload.pdb
+C:\Users\maxsy\Desktop\DropBoxManager\DroBoUpload\DroBoUpload\bin\Debug\Nemiro.OAuth.dll
+C:\Users\maxsy\Desktop\DropBoxManager\DroBoUpload\DroBoUpload\bin\Debug\Nemiro.OAuth.xml
+C:\Users\maxsy\Desktop\DropBoxManager\DroBoUpload\DroBoUpload\obj\Debug\DroBoUpload.csprojResolveAssemblyReference.cache
+C:\Users\maxsy\Desktop\DropBoxManager\DroBoUpload\DroBoUpload\obj\Debug\DroBoUpload.DroBoUpload.resources
+C:\Users\maxsy\Desktop\DropBoxManager\DroBoUpload\DroBoUpload\obj\Debug\DroBoUpload.Properties.Resources.resources
+C:\Users\maxsy\Desktop\DropBoxManager\DroBoUpload\DroBoUpload\obj\Debug\DroBoUpload.csproj.GenerateResource.Cache
+C:\Users\maxsy\Desktop\DropBoxManager\DroBoUpload\DroBoUpload\obj\Debug\DroBoUpload.csproj.CoreCompileInputs.cache
+C:\Users\maxsy\Desktop\DropBoxManager\DroBoUpload\DroBoUpload\obj\Debug\DroBoUpload.exe
+C:\Users\maxsy\Desktop\DropBoxManager\DroBoUpload\DroBoUpload\obj\Debug\DroBoUpload.pdb

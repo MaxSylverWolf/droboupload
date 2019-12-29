@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroBoUpload", "DroBoUpload\DroBoUpload.csproj", "{34291E22-17CB-4C97-9651-1025120E022F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DroBoUpload|Any CPU = DroBoUpload|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34291E22-17CB-4C97-9651-1025120E022F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34291E22-17CB-4C97-9651-1025120E022F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34291E22-17CB-4C97-9651-1025120E022F}.DroBoUpload|Any CPU.ActiveCfg = DroBoUpload|Any CPU
+		{34291E22-17CB-4C97-9651-1025120E022F}.DroBoUpload|Any CPU.Build.0 = DroBoUpload|Any CPU
+		{34291E22-17CB-4C97-9651-1025120E022F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34291E22-17CB-4C97-9651-1025120E022F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC1ED55F-2AD6-4EB9-8B8F-11541AEDF971}
+	EndGlobalSection
+EndGlobal
